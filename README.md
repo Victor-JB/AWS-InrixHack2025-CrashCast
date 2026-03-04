@@ -6,9 +6,9 @@
 CrashCast is a modern web application built with **React 19** and **Vite**. It's designed for advanced mapping and data visualization, likely related to crash or incident data, using a powerful combination of **Deck.gl** and **Google Maps**.
 
 
-[CrashCast Landing Page](https://github.com/user-attachments/assets/8f8e441b-3e89-4666-b8cb-1d1d0ee64d3f)
+![CrashCast Landing Page](https://github.com/user-attachments/assets/8f8e441b-3e89-4666-b8cb-1d1d0ee64d3f](https://github.com/Victor-JB/AWS-InrixHack2025-CrashCast/blob/main/crashcast.gif)
 
-![crashcast Dark Mode](https://github.com/user-attachments/assets/ded4e780-8e5a-414c-b8fa-52db9164de09)
+![CrashCast Dark Mode](https://github.com/user-attachments/assets/ded4e780-8e5a-414c-b8fa-52db9164de09)
 
 
 ## Core Technologies
